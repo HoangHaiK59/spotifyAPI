@@ -39,7 +39,7 @@ var cookieParser = require('cookie-parser');
 
 var client_id = '7f9cbbd68daf4d19a8890769e24edd46'; // Your client id
 var client_secret = '5e917c1f5f3e4184a24e4c569a7a6b81'; // Your secret
-var redirect_uri = 'http://localhost:8000/callback/'; // Your redirect uri
+var redirect_uri = 'https://apispo.herokuapp.com/callback/'; // Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
